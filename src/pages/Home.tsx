@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Camera, Video, Heart, Star, ArrowRight, Play } from 'lucide-react';
+import aboutBackground from '../assets/about-bg.jpg';
 
 export default function Home() {
   const services = [
@@ -82,7 +83,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.pexels.com/photos/3014856/pexels-photo-3014856.jpeg?auto=compress&cs=tinysrgb&w=1920"
+            src={aboutBackground}
             alt="Wedding photography"
             className="w-full h-full object-cover"
           />

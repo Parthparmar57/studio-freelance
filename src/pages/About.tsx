@@ -1,5 +1,4 @@
 import { Camera, Award, Users, Heart } from 'lucide-react';
-import aboutBackground from '../assets/about-bg.jpg';
 
 export default function About() {
   const stats = [
