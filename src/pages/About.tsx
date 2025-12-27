@@ -1,4 +1,5 @@
 import { Camera, Award, Users, Heart } from 'lucide-react';
+import aboutBackground from '../assets/about-bg.jpg';
 
 export default function About() {
   const stats = [
@@ -36,9 +37,14 @@ export default function About() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="/about-background.jpg"
+            src={aboutBackground}
             alt="About XYZ Studio"
             className="w-full h-full object-cover"
+            onLoad={() => console.log('Custom image from assets loaded successfully')}
+            onError={(e) => {
+              console.log('Assets image failed to load');
+              console.error(e);
+            }}
           />
           <div className="absolute inset-0 bg-light-900/70"></div>
         </div>
@@ -51,7 +57,7 @@ export default function About() {
             </span>
           </h1>
           <p className="text-xl text-light-200">
-            Passionate storytellers crafting timeless memories since 2014
+            Passionate storytellers crafting timeless memories since 2024
           </p>
         </div>
       </section>
