@@ -9,7 +9,7 @@ export default function FAQ() {
       category: 'Booking Process',
       questions: [
         {
-          question: 'How do I book a session with Offtbeat Studio?',
+          question: 'How do I book a session with XYZ Studio?',
           answer:
             'You can book a session by filling out our contact form, calling us directly, or WhatsApp us. We\'ll discuss your requirements, check availability, and send you a detailed quote. Once confirmed, we require a 30% advance payment to secure your booking.',
         },
@@ -143,7 +143,7 @@ export default function FAQ() {
             </span>
           </h1>
           <p className="text-xl text-light-200">
-            Everything you need to know about Offtbeat Studio
+            Everything you need to know about XYZ Studio
           </p>
         </div>
       </section>

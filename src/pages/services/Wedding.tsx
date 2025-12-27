@@ -70,7 +70,7 @@ export default function Wedding() {
             to="/contact"
             className="inline-block bg-primary-500 text-light-50 px-10 py-4 rounded-full font-semibold text-lg hover:bg-primary-400 transition-all hover:scale-105"
           >
-            Book Your Wedding with Offtbeat Studio
+            Book Your Wedding with XYZ Studio
           </Link>
         </div>
       </section>

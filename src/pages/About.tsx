@@ -36,8 +36,8 @@ export default function About() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.pexels.com/photos/1661546/pexels-photo-1661546.jpeg?auto=compress&cs=tinysrgb&w=1920"
-            alt="About Offtbeat Studio"
+            src="/about-background.jpg"
+            alt="About XYZ Studio"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-light-900/70"></div>
@@ -47,7 +47,7 @@ export default function About() {
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
             About{' '}
             <span className="bg-gradient-to-r from-primary-500 to-primary-400 bg-clip-text text-transparent">
-              Offtbeat Studio
+              XYZ Studio
             </span>
           </h1>
           <p className="text-xl text-light-200">
@@ -74,7 +74,7 @@ export default function About() {
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-light-700 leading-relaxed">
                 <p>
-                  Offtbeat Studio was born from a simple belief: every moment deserves to be
+                  XYZ Studio was born from a simple belief: every moment deserves to be
                   captured in its most authentic and beautiful form. Founded in 2014, we started
                   as a small team of passionate photographers with a shared vision of creating
                   timeless memories.

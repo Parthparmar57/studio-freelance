@@ -156,7 +156,7 @@ export default function Pricing() {
               to="/contact"
               className="inline-block bg-primary-500 text-light-50 px-10 py-4 rounded-full font-semibold text-lg hover:bg-primary-400 transition-all hover:scale-105"
             >
-              Get Custom Quote from Offtbeat Studio
+              Get Custom Quote from XYZ Studio
             </Link>
           </div>
         </div>

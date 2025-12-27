@@ -189,8 +189,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-light-600">hello@offtbeatstudio.com</p>
-                      <p className="text-light-600">bookings@offtbeatstudio.com</p>
+                      <p className="text-light-600">hello@xyzstudio.com</p>
+                      <p className="text-light-600">bookings@xyzstudio.com</p>
                     </div>
                   </div>
 

@@ -42,7 +42,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <Link to="/" className="flex items-center space-x-2 group">
               <Camera className="w-8 h-8 text-primary-500 group-hover:text-primary-400 transition-colors" />
               <span className="text-2xl font-bold bg-gradient-to-r from-primary-500 to-primary-400 bg-clip-text text-transparent">
-                Offtbeat Studio
+                XYZ Studio
               </span>
             </Link>
 
@@ -108,7 +108,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
                 <Camera className="w-6 h-6 text-primary-500" />
-                <span className="text-xl font-bold">Offtbeat Studio</span>
+                <span className="text-xl font-bold">XYZ Studio</span>
               </div>
               <p className="text-light-600 text-sm">
                 Turning moments into timeless stories through creative photography and cinematic videography.
@@ -144,7 +144,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 </li>
                 <li className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-primary-500" />
-                  <span>hello@offtbeatstudio.com</span>
+                  <span>hello@xyzstudio.com</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <MapPin className="w-4 h-4 text-primary-500 mt-1" />
@@ -155,7 +155,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           </div>
 
           <div className="border-t border-light-200 mt-8 pt-8 text-center text-sm text-light-600">
-            <p>&copy; 2024 Offtbeat Studio. All rights reserved.</p>
+            <p>&copy; 2024 XYZ Studio. All rights reserved.</p>
           </div>
         </div>
       </footer>

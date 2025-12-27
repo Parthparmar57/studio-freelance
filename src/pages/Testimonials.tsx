@@ -6,7 +6,7 @@ export default function Testimonials() {
       name: 'Priya & Rahul Sharma',
       service: 'Wedding Shoot',
       rating: 5,
-      text: 'Offtbeat Studio captured our wedding day perfectly! Every moment, every emotion was beautifully documented. The team was professional, creative, and made us feel comfortable throughout. Our photos are absolutely stunning and we cannot thank them enough!',
+      text: 'XYZ Studio captured our wedding day perfectly! Every moment, every emotion was beautifully documented. The team was professional, creative, and made us feel comfortable throughout. Our photos are absolutely stunning and we cannot thank them enough!',
       image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600',
       date: 'December 2023',
     },
@@ -14,7 +14,7 @@ export default function Testimonials() {
       name: 'Ananya Desai',
       service: 'Maternity Shoot',
       rating: 5,
-      text: 'Such a comfortable and beautiful experience! The photographer was gentle, patient, and created such a relaxed atmosphere. The photos turned out gorgeous - soft, emotional, and exactly what I wanted. Highly recommend Offtbeat Studio for maternity photography!',
+      text: 'Such a comfortable and beautiful experience! The photographer was gentle, patient, and created such a relaxed atmosphere. The photos turned out gorgeous - soft, emotional, and exactly what I wanted. Highly recommend XYZ Studio for maternity photography!',
       image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600',
       date: 'November 2023',
     },
@@ -22,7 +22,7 @@ export default function Testimonials() {
       name: 'Vikram Industries',
       service: 'Corporate Event',
       rating: 5,
-      text: 'Professional, punctual, and exceptionally creative. Offtbeat Studio covered our annual conference and the results exceeded our expectations. Perfect for business needs with a creative touch. Will definitely work with them again!',
+      text: 'Professional, punctual, and exceptionally creative. XYZ Studio covered our annual conference and the results exceeded our expectations. Perfect for business needs with a creative touch. Will definitely work with them again!',
       image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600',
       date: 'October 2023',
     },
@@ -30,7 +30,7 @@ export default function Testimonials() {
       name: 'Meera & Aditya',
       service: 'Pre-Wedding Shoot',
       rating: 5,
-      text: 'Our pre-wedding shoot in Goa was magical! The team helped us choose locations, guided us with poses, and made the whole experience fun and memorable. The photos are breathtaking and we cherish them so much. Thank you Offtbeat Studio!',
+      text: 'Our pre-wedding shoot in Goa was magical! The team helped us choose locations, guided us with poses, and made the whole experience fun and memorable. The photos are breathtaking and we cherish them so much. Thank you XYZ Studio!',
       image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600',
       date: 'September 2023',
     },
@@ -46,7 +46,7 @@ export default function Testimonials() {
       name: 'Rohan & Simran',
       service: 'Destination Wedding',
       rating: 5,
-      text: 'We had our wedding in Udaipur and Offtbeat Studio traveled with us. They captured the grandeur of the location and the intimacy of our moments perfectly. The cinematic video is like a movie! Worth every penny.',
+      text: 'We had our wedding in Udaipur and XYZ Studio traveled with us. They captured the grandeur of the location and the intimacy of our moments perfectly. The cinematic video is like a movie! Worth every penny.',
       image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600',
       date: 'July 2023',
     },
@@ -83,7 +83,7 @@ export default function Testimonials() {
             </span>
           </h1>
           <p className="text-xl text-light-200">
-            Stories from our happy clients at Offtbeat Studio
+            Stories from our happy clients at XYZ Studio
           </p>
         </div>
       </section>
@@ -175,7 +175,7 @@ export default function Testimonials() {
           <div className="bg-light-200 p-8 md:p-12 rounded-2xl border border-light-300 text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Join Our Happy Clients</h2>
             <p className="text-xl text-light-600 mb-8">
-              Experience the Offtbeat Studio difference. Let us capture your special moments with
+              Experience the XYZ Studio difference. Let us capture your special moments with
               the same care and creativity our clients love.
             </p>
             <a

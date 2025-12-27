@@ -51,7 +51,7 @@ export default function Home() {
     {
       name: 'Priya & Rahul',
       service: 'Wedding Shoot',
-      text: 'Offtbeat Studio made our wedding unforgettable. The photos are absolutely stunning!',
+      text: 'XYZ Studio made our wedding unforgettable. The photos are absolutely stunning!',
       rating: 5,
     },
     {
@@ -100,7 +100,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-light-100 mb-8 max-w-2xl mx-auto">
-            Professional Photography & Cinematic Videography by Offtbeat Studio
+            Professional Photography & Cinematic Videography by XYZ Studio
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
@@ -200,7 +200,7 @@ export default function Home() {
       <section className="py-20 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">Why Offtbeat Studio</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">Why XYZ Studio</h2>
             <p className="text-xl text-light-600">Excellence in every frame</p>
           </div>
 
@@ -263,7 +263,7 @@ export default function Home() {
       <section className="py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Let Offtbeat Studio Capture Your Story
+            Let XYZ Studio Capture Your Story
           </h2>
           <p className="text-xl text-light-600 mb-8">
             Ready to create timeless memories? Get in touch with us today.
